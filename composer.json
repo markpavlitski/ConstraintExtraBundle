@@ -1,15 +1,14 @@
 {
-  "name": "markpavlitski/constraint-extra-bundle",
-  "description": "Additional constraint validators for common use-cases such as JSON.",
-  "type": "symfony-bundle",
-	"homepage" : "https://github.com/markpavlitski/ConstraintExtraBundle",	
-  "authors": [
-    {
-      "name": "Mark Pavlitski",
-      "email": "mark@microserve.io"
-    }
-  ],
-  "license" : "CC0-1.0",
+	"name" : "markpavlitski/constraint-extra-bundle",
+	"description" : "Additional constraint validators for common use-cases such as JSON.",
+	"type" : "symfony-bundle",
+	"homepage" : "https://github.com/markpavlitski/ConstraintExtraBundle",
+	"authors" : [{
+			"name" : "Mark Pavlitski",
+			"email" : "mark@microserve.io"
+		}
+	],
+	"license" : "CC0-1.0",
 	"require" : {
 		"php" : ">=5.3.9",
 		"symfony/framework-bundle" : "~2.3"
